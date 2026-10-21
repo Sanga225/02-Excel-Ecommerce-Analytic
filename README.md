@@ -1,6 +1,6 @@
 📊 E-Commerce Analytics | Dashboard Excel Interactif
 
-Présentation du projet
+## Présentation du projet 
 
 Ce projet consiste à analyser 20 000 transactions e-commerce fictives réalisées entre 2024 et 2025, à l'aide de Microsoft Excel 2021.
 
@@ -13,7 +13,7 @@ Aperçu du Dashboard:
 ![Tableau de bord E-commerce](Dashboard_Ecommerce.png)
 Le Dashboard permet de filtrer les résultats par région et par période afin d'explorer les performances commerciales.
 
-Indicateurs clés (KPI)
+## Aperçu du tableau de bordI)
 
 
 | Indicateur | Résultat global |
@@ -27,7 +27,7 @@ Indicateurs clés (KPI)
 
 Les résultats correspondent à l'ensemble des données, sans filtre actif.
 
-Analyses réalisées
+## Analyses réalisées 
 
 Chiffre d'affaires par catégorie : identification des catégories contribuant le plus aux ventes.
 
@@ -39,7 +39,7 @@ Top 5 des produits : identification des produits générant le chiffre d'affaire
 
 Analyse interactive : exploration des résultats à l'aide d'un segment Région et d'une chronologie Date_Commande.
 
-Technologies et outils:
+## Technologies et outils :
 
 Microsoft Excel 2021 : analyse et visualisation des données.
 
@@ -53,7 +53,7 @@ Segments et chronologie : filtrage interactif.
 
 Formules Excel : calcul et affichage dynamique des KPI.
 
-Principaux résultats
+# Principaux résultats
 
 L'analyse fait ressortir plusieurs enseignements :
 
@@ -108,7 +108,7 @@ Data visualisation et communication des résultats.
 
 Structuration et documentation d'un projet analytique.
 
-Auteur
+## Auteur :
 
 Sangaré Ali
 
