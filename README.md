@@ -10,6 +10,7 @@ Le projet couvre la préparation des données, le calcul des KPI, l'analyse des 
 
 Aperçu du Dashboard:
 
+![Tableau de bord E-commerce](Dashboard_Ecommerce.png)
 Le Dashboard permet de filtrer les résultats par région et par période afin d'explorer les performances commerciales.
 
 Indicateurs clés (KPI)
