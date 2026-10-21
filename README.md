@@ -71,25 +71,28 @@ Les performances commerciales varient selon les régions et les périodes étudi
 
 Structure du projet
 
+## 📁 Structure du projet
+
+```text
 02-Excel-Commerce-Electronique-Analyse/
 │
 ├── Projet_Final_Ecommerce_Analytics.xlsx
-├── Tableau de bord_Commerce électronique.png
+├── Dashboard_Ecommerce.png
 └── README.md
+```
 
-Comment utiliser le Dashboard:
+## 🖥️ Comment utiliser le Dashboard
 
-Télécharger le fichier Projet_Final_Ecommerce_Analytics.xlsx.
+1. Télécharger le fichier `Projet_Final_Ecommerce_Analytics.xlsx`.
+2. Ouvrir le fichier avec Microsoft Excel.
+3. Accéder à la feuille `Dashboard_Modele`.
+4. Utiliser le segment **Région** et la chronologie **Date_Commande**.
+5. Observer l'actualisation des KPI et des graphiques.
 
-L'ouvrir avec Microsoft Excel.
 
-Accéder à la feuille Dashboard_Modele.
 
-Utiliser le segment Région et la chronologie Date_Commande pour filtrer les résultats.
 
-Observer l'actualisation des KPI et des graphiques.
-
-Compétences développées
+## Compétences développées
 
 Ce projet m'a permis de renforcer mes compétences en :
 
