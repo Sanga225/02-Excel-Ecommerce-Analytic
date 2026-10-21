@@ -15,27 +15,15 @@ Le Dashboard permet de filtrer les résultats par région et par période afin d
 
 Indicateurs clés (KPI)
 
-Indicateur  Résultat global  :
 
-Chiffre d'affaires net
+| Indicateur | Résultat global |
+|---|---:|
+| Chiffre d'affaires net | 4 188 959,58 € |
+| Marge totale | 1 322 453,41 € |
+| Nombre de commandes | 20 000 |
+| Panier moyen | 209,45 € |
+| Taux de marque | 31,57 % |
 
-4 188 959,58 €
-
-Marge totale
-
-1 322 453,41 €
-
-Nombre de commandes
-
-20 000
-
-Panier moyen
-
-209,45 €
-
-Taux de marque
-
-31,57 %
 
 Les résultats correspondent à l'ensemble des données, sans filtre actif.
 
